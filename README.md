@@ -24,7 +24,22 @@ I am a second-year student with a passion for technology, programming, and probl
 ### Tools:
 - **Power BI**: Experience in creating dashboards and data visualization.
 - **Visual Studio Code**: Primary IDE for development.
-- 
+---
+🛠️ Projects
+
+-End-to-End NLP Project
+Description: A comprehensive natural language processing project to preprocess, analyze, and derive insights from textual data.
+Tools Used: Python, NLTK, SpaCy, and scikit-learn.
+
+-Sales Analysis for Reliance Digital
+Description: Analyzed sales data to identify trends, profit margins, and customer preferences.
+
+-Virtual Paint Using Python
+Description: Created a virtual painting application that allows users to draw on a virtual canvas using a webcam.
+Features: Real-time color detection, shape recognition, and gesture-based controls.
+Tools Used: Python and OpenCV.
+
+
 ### Other Concepts:
 - **Descriptive Analytics**: Understanding data and deriving insights.
 - **Machine Learning**: Splitting datasets, training/testing models, and creating predictions.
