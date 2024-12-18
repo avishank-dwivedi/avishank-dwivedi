@@ -39,7 +39,7 @@ Description: Created a virtual painting application that allows users to draw on
 Features: Real-time color detection, shape recognition, and gesture-based controls.
 Tools Used: Python and OpenCV.
 
-
+---
 ### Other Concepts:
 - **Descriptive Analytics**: Understanding data and deriving insights.
 - **Machine Learning**: Splitting datasets, training/testing models, and creating predictions.
