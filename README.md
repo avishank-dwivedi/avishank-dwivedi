@@ -46,11 +46,6 @@ Tools Used: Python and OpenCV.
 
 ---
 
-## 🌱 Currently Learning
-- **Data Structures and Algorithms (DSA)**: Deep-diving into advanced topics in Java.
-- **Portfolio Development**: Building a personal portfolio to showcase my skills and projects.
----
-
 ## 📚 Future Goals
 - **Complete DSA in Java**: Master algorithmic problem-solving within a few months.
 - **Expand Machine Learning Knowledge**: Create more predictive models.
