@@ -7,8 +7,6 @@ I am a second-year student with a passion for technology, programming, and probl
 
 ## 🎓 Education
 - **Degree**: Bachelor's Degree (Second Year)
-- **Focus Areas**: Computer Science and Programming
-
 ---
 
 ## 💻 Skills and Technologies
